@@ -1,5 +1,5 @@
 ---
-title: Awards and Recognitions
+title: Awards & Recognitions
 icon: fa-regular fa-award
 order: 4
 ---
