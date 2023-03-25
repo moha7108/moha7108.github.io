@@ -9,8 +9,12 @@ order: 4
 - **Dobson Cup: Food and Agribusiness Convergent Innovation Prize (Observe Agriculture).** 2019
 - **Robert S. Broughton Student Internship Award in Agricultural Engineering.** 2015
 
-### Certificates
+
+
 
 <div style="text-align: left">
-<a href="assets/certificates/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.pdf" target="_blank" rel="noopener noreferrer"><img style="float: left; margin-right:15px;" src="assets/certificates/preview/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.png"></a> <Strong>Interdisciplinary Workshop for Young Scientists from Canada and Ukraine</Strong> February 27, 2023
+  <h3>Certificates</h3>
+  
+  <a href="assets/certificates/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.pdf" target="_blank" rel="noopener noreferrer"><img style="float: left; margin-right:15px;" src="assets/certificates/preview/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.png"></a> <Strong>Interdisciplinary Workshop for Young Scientists from Canada and Ukraine</Strong> February 27, 2023
+
 </div>
