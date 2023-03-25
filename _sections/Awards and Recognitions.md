@@ -12,5 +12,5 @@ order: 4
 ### Certificates
 
 <div style="text-align: left">
-<a href="assets/certificates/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.pdf" target="_blank" rel="noopener noreferrer"><img style="float: left;" src="assets/certificates/preview/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.png"></a> **Interdisciplinary Workshop for Young Scientists from Canada and Ukraine** February 27, 2023
+<a href="assets/certificates/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.pdf" target="_blank" rel="noopener noreferrer"><img style="float: left; margin-right:15px;" src="assets/certificates/preview/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.png"></a> <Strong>Interdisciplinary Workshop for Young Scientists from Canada and Ukraine</Strong> February 27, 2023
 </div>
