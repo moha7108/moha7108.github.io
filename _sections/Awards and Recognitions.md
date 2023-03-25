@@ -10,8 +10,5 @@ order: 4
 - **Robert S. Broughton Student Internship Award in Agricultural Engineering.** 2015
 
 ### Certificates
-![Certificate](assets/certificates/preview/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.png)
-**Interdisciplinary Workshop for Young Scientists from Canada and Ukraine** February 27, 2023 [Certificate](assets/certificates/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.pdf)
-
-<img style="float: right;" src="assets/certificates/preview/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.png">
+ - <img style="float: left;" src="assets/certificates/preview/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.png">
 **Interdisciplinary Workshop for Young Scientists from Canada and Ukraine** February 27, 2023 [Certificate](assets/certificates/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.pdf)
