@@ -10,7 +10,8 @@ order: 4
 - **Robert S. Broughton Student Internship Award in Agricultural Engineering.** 2015
 
 ### Certificates
-![Certificate](assets/certificates/preview/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.png) **Interdisciplinary Workshop for Young Scientists from Canada and Ukraine** February 27, 2023 [Certificate](assets/certificates/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.pdf)
+![Certificate](assets/certificates/preview/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.png)
+**Interdisciplinary Workshop for Young Scientists from Canada and Ukraine** February 27, 2023 [Certificate](assets/certificates/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.pdf)
 
 <div class="item">
   <a href="#" class="image fit"><img src="{{ 'assets/images/pic02.jpg' | relative_url }}" alt="Ipsum Feugiat" /></a>
