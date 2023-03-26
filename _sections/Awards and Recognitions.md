@@ -9,8 +9,7 @@ order: 4
 - **Dobson Cup: Food and Agribusiness Convergent Innovation Prize (Observe Agriculture).** 2019
 - **Robert S. Broughton Student Internship Award in Agricultural Engineering.** 2015
 
-
-<div style="text-align: left; margin-bottom:32px;"><h3>Certificates</h3></div>
+<h3 style="text-align: left; margin-bottom:32px;">Certificates</h3>
 
 
 <div style="text-align: left">
