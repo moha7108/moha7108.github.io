@@ -1,5 +1,5 @@
 ---
-title: Graduate Seminar: Conditional Generative Models for Implicit Plant Growth Modeling
+title: Graduate Seminar
 author: Mohamed Debbagh
 layout: post
 icon: fa-duotone fa-leafy-green
