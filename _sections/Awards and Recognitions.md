@@ -36,12 +36,12 @@ order: 4
     </li>
 
     <li>
-      <a href="assets/certificates/Ivado_Mila_6th Deep learning School_2021_Certificate_Mohamed_Debbagh.pdf" target="_blank" rel="noopener noreferrer"><img src="assets/certificates/preview/Ivado_Mila_6th Deep learning School_2021_Certificate_Mohamed_Debbagh.png"></a>
-      <a href="assets/certificates/Ivado_Mila_6th Deep learning School_2021_Certificate_Mohamed_Debbagh.pdf" target="_blank" rel="noopener noreferrer"><img src="assets/certificates/preview/Ivado_Mila_6th Deep learning School_2021_Certificate_Mohamed_Debbagh.png"></a>
-      <a href="assets/certificates/Ivado_Mila_6th Deep learning School_2021_Certificate_Mohamed_Debbagh.pdf" target="_blank" rel="noopener noreferrer"><img src="assets/certificates/preview/Ivado_Mila_6th Deep learning School_2021_Certificate_Mohamed_Debbagh.png"></a>
-      <a href="assets/certificates/Ivado_Mila_6th Deep learning School_2021_Certificate_Mohamed_Debbagh.pdf" target="_blank" rel="noopener noreferrer"><img src="assets/certificates/preview/Ivado_Mila_6th Deep learning School_2021_Certificate_Mohamed_Debbagh.png"></a>
+      <a href="assets/certificates/Deep Learning Certificate_Udacity.pdf" target="_blank" rel="noopener noreferrer"><img src="assets/certificates/preview/Deep Learning Certificate_Udacity.png"></a>
+      <a href="assets/certificates/Computer Vision Certificate_Udacity.pdf" target="_blank" rel="noopener noreferrer"><img src="assets/certificates/preview/Computer Vision Certificate_Udacity.png"></a>
+      <a href="assets/certificates/Machine Learning with TensorFlow Certificate_Udacity.pdf" target="_blank" rel="noopener noreferrer"><img src="assets/certificates/preview/Machine Learning with TensorFlow Certificate_Udacity.png"></a>
+      <a href="assets/certificates/Ai programming with python certificate_Udacity.pdf" target="_blank" rel="noopener noreferrer"><img src="aassets/certificates/preview/Ai programming with python certificate_Udacity.png"></a>
 
-      <p><Strong>6th IVADO/Mila Deep Learning School</Strong> April 29, 2021</p>
+      <p><Strong>Deep Learning, Computer Vision, Machine Learning with TensorFlow, AI Programming with Python. Udacity Technical Training</Strong> June-October 2020</p>
     </li>
   </ul>
 
