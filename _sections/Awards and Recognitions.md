@@ -17,7 +17,8 @@ order: 4
 
   
   <div>
-    <a href="assets/certificates/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.pdf" target="_blank" rel="noopener noreferrer"><img src="assets/certificates/preview/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.png"></a><Strong>Interdisciplinary Workshop for Young Scientists from Canada and Ukraine</Strong> February 27, 2023    
+    <a href="assets/certificates/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.pdf" target="_blank" rel="noopener noreferrer"><img src="assets/certificates/preview/20230227-Interdisciplinary Workshop for Young Scientists from Canada and Ukraine.png"></a>
+    <p><Strong>Interdisciplinary Workshop for Young Scientists from Canada and Ukraine</Strong> February 27, 2023</p>    
   </div>
     
   <div class="container"><a href="assets/certificates/Ivado_Mila_6th Deep learning School_2021_Certificate_Mohamed_Debbagh.pdf" target="_blank" rel="noopener noreferrer"><img src="assets/certificates/preview/Ivado_Mila_6th Deep learning School_2021_Certificate_Mohamed_Debbagh.png"></a> <Strong>6th IVADO/Mila Deep Learning School</Strong> April 29, 2021</div>
