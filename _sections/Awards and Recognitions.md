@@ -10,7 +10,7 @@ order: 4
 - **Robert S. Broughton Student Internship Award in Agricultural Engineering.** 2015
 
 
-<div style="text-align: left; margin-bottom:15px;"><h3>Certificates</h3></div>
+<div style="text-align: left; margin-bottom:32px;"><h3>Certificates</h3></div>
 
 
 <div style="text-align: left">
