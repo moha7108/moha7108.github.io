@@ -2,7 +2,7 @@
 title: PhD Seminar Presentation 1
 author: Mohamed Debbagh
 layout: post
-icon: fa-regular fa-leafy-green
+icon: fa-regular fa-seedling
 ---
 **Topic:** Conditional Generative Models for Implicit Plant Growth modeling.
 
