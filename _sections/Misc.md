@@ -1,6 +1,6 @@
 ---
 title: Miscellaneous
-icon: fa-regular fa-otter
+icon: fa-regular fa-star
 order: 5
 ---
 
