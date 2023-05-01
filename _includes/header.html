@@ -7,7 +7,10 @@
 <div id="header">
   <div class="top">
     {%- include logo.html -%}
-    
+    {%- include nav.html section_items=include.scrolly_nav -%}
+  </div>
+  <div class="bottom">
+        
     <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
     <script>
       kofiWidgetOverlay.draw('moha7108', 
@@ -17,9 +20,6 @@
         'floating-chat.donateButton.text-color': '#fff'});
     </script>
 
-    {%- include nav.html section_items=include.scrolly_nav -%}
-  </div>
-  <div class="bottom">
     {%- include social_icons.html -%}
   </div>
 </div>
