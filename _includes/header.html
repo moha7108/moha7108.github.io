@@ -10,16 +10,13 @@
     {%- include nav.html section_items=include.scrolly_nav -%}
   </div>
   <div class="bottom">
-    {%- include social_icons.html -%}
-    
-    <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+    {%- include social_icons.html -%}<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
     <script>
-      kofiWidgetOverlay.draw('moha7108', {
-        'type': 'floating-chat',
+      kofiWidgetOverlay.draw('moha7108', 
+      { 'type': 'floating-chat',
         'floating-chat.donateButton.text': 'Support me',
         'floating-chat.donateButton.background-color': '#794bc4',
-        'floating-chat.donateButton.text-color': '#fff'
-      });
+        'floating-chat.donateButton.text-color': '#fff'});
     </script>
 
   </div>
