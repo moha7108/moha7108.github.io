@@ -1,6 +1,6 @@
 ---
-title: Misc
-icon: fa-regular fa-award
+title: Miscellaneous
+icon: fa-solid fa-otter
 order: 5
 ---
 
