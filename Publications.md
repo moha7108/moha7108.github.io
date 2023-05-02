@@ -6,7 +6,7 @@ icon: fa-book
 order: 3
 ---
 
-1. [Mohamed Debbagh. Neural radiance fields (nerfs): A review and some recent developments, 2023](https://arxiv.org/abs/2305.00375)
+1. [M. Debbagh, “Neural radiance fields (nerfs): A review and some recent developments,” 2023](https://arxiv.org/abs/2305.00375)
 ```
 @misc{debbagh2023neural,
       title={Neural Radiance Fields (NeRFs): A Review and Some Recent Developments}, 
@@ -17,4 +17,10 @@ order: 3
       primaryClass={cs.CV}
 }
 ```
-2. test
+2. [V. D. Brousseau, D. Leroux, S. Martel, P. Tikasz, M. Debbagh, T. Gigu`ere, I. Tazi, S. MacPherson, and M. G. Lefsrud, “Animal-waste based organic liquid fertilizer as a replacement for synthetic nitrogen in basil production: A case study.”](https://www.researchgate.net/publication/362344160_Animal-Waste_Based_Organic_Liquid_Fertilizer_as_a_Replacement_for_Synthetic_Nitrogen_in_Basil_Production_A_Case_Study)
+'''
+@article{brousseauanimal,
+  title={Animal-Waste Based Organic Liquid Fertilizer as a Replacement for Synthetic Nitrogen in Basil Production: A Case Study},
+  author={Brousseau, Vincent Desaulniers and Leroux, David and Martel, Simone and Tikasz, Peter and Debbagh, Mohamed and Gigu{\`e}re, Thomas and Tazi, Ilies and MacPherson, Sarah and Lefsrud, Mark G}
+}
+'''
