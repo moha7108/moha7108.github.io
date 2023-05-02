@@ -7,9 +7,7 @@ order: 3
 ---
 
 1. [M. Debbagh, “Neural radiance fields (nerfs): A review and some recent developments,” 2023](https://arxiv.org/abs/2305.00375)
-
-    [Project Page](https://moha7108.github.io/2023/03/17/NeRF.html)
-
+    *[Project Page](https://moha7108.github.io/2023/03/17/NeRF.html)
     ```
     @misc{debbagh2023neural,
         title={Neural Radiance Fields (NeRFs): A Review and Some Recent Developments}, 
