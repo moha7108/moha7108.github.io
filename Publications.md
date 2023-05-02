@@ -28,3 +28,13 @@ order: 3
   month={July}
 }
 ```
+3. [M. Debbagh, V. Adamchuk, C. Madramootoo, and J. Whalen, “Development of a wireless sensor network for passive in situ measurement of soil co2 gas emissions in the agriculture landscape,” in Proceedings of the 14th International Conference on Precision Agriculture, Montreal, QC, Canada, 2018, pp. 24–27.](https://www.researchgate.net/publication/338018392_Development_of_a_Low-Cost_Wireless_Sensor_Network_for_Passive_in_situ_Measurement_of_Soil_Greenhouse_Gas_Emissions)
+```
+@inproceedings{debbagh2018development,
+  title={Development of a Wireless Sensor Network for Passive in situ Measurement of Soil CO2 Gas Emissions in the Agriculture Landscape},
+  author={Debbagh, M and Adamchuk, V and Madramootoo, C and Whalen, J},
+  booktitle={Proceedings of the 14th International Conference on Precision Agriculture, Montreal, QC, Canada},
+  pages={24--27},
+  year={2018}
+}
+```
