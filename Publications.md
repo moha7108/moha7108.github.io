@@ -6,7 +6,7 @@ icon: fa-book
 order: 3
 ---
 
-1. Mohamed Debbagh. Neural radiance fields (nerfs): A review and some recent developments, 2023
+1. Mohamed Debbagh. [Neural radiance fields (nerfs): A review and some recent developments](https://arxiv.org/abs/2305.00375), 2023
 ```
 @misc{debbagh2023neural,
       title={Neural Radiance Fields (NeRFs): A Review and Some Recent Developments}, 
