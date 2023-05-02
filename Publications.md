@@ -38,3 +38,14 @@ order: 3
   year={2018}
 }
 ```
+
+4. M. Debbagh, V. Adamchuk, C. Madramootoo, and J. Whalen, "Comparison of Soil Emission Measurement Techniques in the Agriculture Landscape: Gas Chromatography, WS - CRDS, FTIR and NDIR Sensor Based Approaches," in 2018 Joint Meeting of the Canadian Geophysical Union, Canadian Soil Science Society, Computational Infrastructure in Geodynamics, Eastern Section of the Seismological Society of America and the Canadian Society for Agricultural and Forest Meteorology, June 2018.
+```
+@inproceedings{debbagh2018comparison,
+  title={Comparison of Soil Emission Measurement Techniques in the Agriculture Landscape: Gas Chromatography, WS - CRDS, FTIR and NDIR Sensor Based Approaches},
+  author={Debbagh, Mohamed and Adamchuk, Viacheslav and Madramootoo, Chandra and Whalen, Joann},
+  booktitle={2018 Joint Meeting of the Canadian Geophysical Union, Canadian Soil Science Society, Computational Infrastructure in Geodynamics, Eastern Section of the Seismological Society of America and the Canadian Society for Agricultural and Forest Meteorology},
+  year={2018},
+  month={June}
+}
+```
