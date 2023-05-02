@@ -17,7 +17,7 @@ order: 3
       primaryClass={cs.CV}
 }
 ```
-2. [V. D. Brousseau, D. Leroux, S. Martel, P. Tikasz, M. Debbagh, T. Gigu`ere, I. Tazi, S. MacPherson, and M. G. Lefsrud, “Animal-waste based organic liquid fertilizer as a replacement for synthetic nitrogen in basil production: A case study,” in CSBE/SCGAB AGM and Technical Conference 2022, Charlottetown, Prince-Edward-Island, Canada, July 2022.](https://www.researchgate.net/publication/362344160_Animal-Waste_Based_Organic_Liquid_Fertilizer_as_a_Replacement_for_Synthetic_Nitrogen_in_Basil_Production_A_Case_Study)
+2. [V. D. Brousseau, D. Leroux, S. Martel, P. Tikasz, M. Debbagh, T. Giguère, I. Tazi, S. MacPherson, and M. G. Lefsrud, “Animal-waste based organic liquid fertilizer as a replacement for synthetic nitrogen in basil production: A case study,” in CSBE/SCGAB AGM and Technical Conference 2022, Charlottetown, Prince-Edward-Island, Canada, July 2022.](https://www.researchgate.net/publication/362344160_Animal-Waste_Based_Organic_Liquid_Fertilizer_as_a_Replacement_for_Synthetic_Nitrogen_in_Basil_Production_A_Case_Study)
 ```
 @inproceedings{brousseau2022animal,
   title={Animal-Waste Based Organic Liquid Fertilizer as a Replacement for Synthetic Nitrogen in Basil Production: A Case Study},
