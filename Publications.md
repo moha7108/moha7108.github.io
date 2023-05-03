@@ -5,8 +5,19 @@ layout: "page"
 icon: fa-book
 order: 3
 ---
+1. M. Debbagh, "Learning Structured Output Representations from Attributes using Deep Conditional Generative Models," arXiv preprint arXiv:2305.00980, 2023. **([Arxiv](https://arxiv.org/abs/2305.00980), [Project Page](https://moha7108.github.io/2023/04/24/CVAE.html))**
+```
+@misc{debbagh2023learning,
+      title={Learning Structured Output Representations from Attributes using Deep Conditional Generative Models}, 
+      author={Mohamed Debbagh},
+      year={2023},
+      eprint={2305.00980},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
-1. M. Debbagh, “Neural radiance fields (nerfs): A review and some recent developments,” 2023. [**(Arxiv**](https://arxiv.org/abs/2305.00375), [**Project Page)**](https://moha7108.github.io/2023/03/17/NeRF.html)
+1. M. Debbagh, "Neural Radiance Fields (NeRFs): A Review and Some Recent Developments," arXiv preprint arXiv:2305.00375, 2023. [**(Arxiv**](https://arxiv.org/abs/2305.00375), [**Project Page)**](https://moha7108.github.io/2023/03/17/NeRF.html)
 ```
 @misc{debbagh2023neural,
     title={Neural Radiance Fields (NeRFs): A Review and Some Recent Developments}, 
