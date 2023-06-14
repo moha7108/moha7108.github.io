@@ -2,7 +2,7 @@
 title: ASABE 2023 Robotics Competition
 author: Mohamed Debbagh
 layout: post
-icon: fa-solid fa-eye
+icon: fa-solid fa-robot
 ---
 
 Autonomous robots will harvest cotton on a brown 8’ x 8’ playing field with a brown, 4” tall border. The playing field has 6 rows, and each row contains 9 cotton plants. Each plant has one, two, or three bolls of cotton at heights between 7” and 11”, and each ripe boll contains between three and five distinct cotton balls. Robots score points by collecting cotton, mapping the location of “unripe” bolls of cotton, and “delivering” the cotton to a corner of the playing field.
