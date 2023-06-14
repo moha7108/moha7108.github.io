@@ -1,5 +1,5 @@
 ---
-title: ASABE 2023 Robotics Competition
+title: ASABE'23 Robotics Competition
 author: Mohamed Debbagh
 layout: post
 icon: fa-solid fa-robot
