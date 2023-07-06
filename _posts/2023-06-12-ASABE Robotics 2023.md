@@ -23,4 +23,4 @@ Autonomous robots will harvest cotton on a brown 8’ x 8’ playing field with 
 
 <br/>
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><embed src='/assets/papers/2023-07-1_ASABE_2023_Robotics_Competition_Poster.pdf' width='800px' height='2100px' /></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><embed src='/assets/papers/2023-07-1_ASABE_2023_Robotics_Competition_Poster.pdf' width='800px' height='2100px' scrolling="no"/></div>
