@@ -8,7 +8,7 @@ icon: fa-solid fa-robot
 Autonomous robots will harvest cotton on a brown 8’ x 8’ playing field with a brown, 4” tall border. The playing field has 6 rows, and each row contains 9 cotton plants. Each plant has one, two, or three bolls of cotton at heights between 7” and 11”, and each ripe boll contains between three and five distinct cotton balls. Robots score points by collecting cotton, mapping the location of “unripe” bolls of cotton, and “delivering” the cotton to a corner of the playing field.
 
 
-<style>.embed-container { position: relative; padding-bottom: 0%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><embed src='/assets/papers/2023-07-1_ASABE_2023_Robotics_Competition_Poster.pdf' width='800px' height='2100px'/></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><object data='/assets/papers/2023-07-1_ASABE_2023_Robotics_Competition_Poster.pdf'>     <embed src='/assets/papers/2023-07-1_ASABE_2023_Robotics_Competition_Poster.pdf'>         <p>This browser does not support PDFs. Please download the PDF to view it: <a href='/assets/papers/2023-07-1_ASABE_2023_Robotics_Competition_Poster.pdf'>Download PDF</a>.</p>     </embed> </object></div>
 <br/>
 
 ### The Playing Field:
