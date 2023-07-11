@@ -45,9 +45,9 @@ icon: fa-solid fa-robot
 
 #### Harvesting and Delivery System:
 
-#### Navigation and Locomotion:
+#### Power Distribution and Mechatronics:
 
-#### Robot Interface:
+#### Robot Interface and Communication:
 
 <br/>
 
