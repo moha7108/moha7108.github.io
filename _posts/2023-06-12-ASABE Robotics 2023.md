@@ -30,3 +30,14 @@ Autonomous robots will harvest cotton on a brown 8’ x 8’ playing field with 
 
 <br/>
 
+#### Cite this project (Bibtex)
+
+```
+@inproceedings{mcgill2023cottonrover,
+    title={McGill Agriculture Robotics Squad Cotton Rover},
+    author={Debbagh, Mohamed and Geddes, Kyle and Rello, Andres and Jiang, Xintong and Abdalla, Karim and Citak, Gunes Arev and Leblond, Philippe and Lan, John and Brar, Jasmine and Vigouroux, Robin Le and Zhou, Xuehai and Adamchuk, Viacheslav and Sun, Shangpeng},
+    booktitle={2023 ASABE Conference's Student Robotics Challenge},
+    year={2023},
+    address={Omaha, Nebraska}
+}
+```
