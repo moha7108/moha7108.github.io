@@ -1,5 +1,5 @@
 ---
-title: Robotics Competition 2023
+title: Cotton Rover (2023 ASABE)
 author: Mohamed Debbagh
 layout: post
 icon: fa-solid fa-robot
