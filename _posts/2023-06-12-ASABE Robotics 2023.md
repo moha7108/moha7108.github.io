@@ -1,5 +1,5 @@
 ---
-title: Cotton Rover (2023 ASABE)
+title: Cotton Rover (ASABE 2023)
 author: Mohamed Debbagh
 layout: post
 icon: fa-solid fa-robot
