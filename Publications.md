@@ -5,7 +5,22 @@ layout: "page"
 icon: fa-book
 order: 3
 ---
-1. M. Debbagh, "Learning Structured Output Representations from Attributes using Deep Conditional Generative Models," arXiv preprint arXiv:2305.00980, 2023. **([Arxiv](https://arxiv.org/abs/2305.00980), [Project Page](https://moha7108.github.io/2023/04/24/CVAE.html))**
+
+
+
+1. V. Adamchuk, J.Lan, K. Abdalla, P. Dias Carlson, M. Debbagh, C. Madramootoo, & B. Kvezereli (2023), "Instrumentation for on-the-spot measurement of soil health indicators", Precision agriculture’23, 823-829, 2023. **([wageningen academic](https://www.wageningenacademic.com/doi/abs/10.3920/978-90-8686-947-3_103))**
+```
+@article{adamchuk2023instrumentation,
+  title={Instrumentation for on-the-spot measurement of soil health indicators},
+  author={Adamchuk, V and Lan, J and Abdalla, K and Dias Carlson, P and Debbagh, M and Madramootoo, C and Kvezereli, B},
+  journal={Precision agriculture’23},
+  pages={823--829},
+  year={2023},
+  publisher={Wageningen Academic Publishers}
+}
+```
+
+1. M. Debbagh, "Learning Structured Output Representations from Attributes using Deep Conditional Generative Models", arXiv preprint arXiv:2305.00980, 2023. **([Arxiv](https://arxiv.org/abs/2305.00980), [Project Page](https://moha7108.github.io/2023/04/24/CVAE.html))**
 ```
 @misc{debbagh2023learning,
       title={Learning Structured Output Representations from Attributes using Deep Conditional Generative Models}, 
@@ -27,7 +42,9 @@ order: 3
     archivePrefix={arXiv},
     primaryClass={cs.CV}
 }
+
 ```
+
 2. V. D. Brousseau, D. Leroux, S. Martel, P. Tikasz, M. Debbagh, T. Giguère, I. Tazi, S. MacPherson, and M. G. Lefsrud, “Animal-waste based organic liquid fertilizer as a replacement for synthetic nitrogen in basil production: A case study,” in CSBE/SCGAB AGM and Technical Conference 2022, Charlottetown, Prince-Edward-Island, Canada, July 2022. [**(PDF)**](https://www.researchgate.net/publication/362344160_Animal-Waste_Based_Organic_Liquid_Fertilizer_as_a_Replacement_for_Synthetic_Nitrogen_in_Basil_Production_A_Case_Study)
 ```
 @inproceedings{brousseau2022animal,
