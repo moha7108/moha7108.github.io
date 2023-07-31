@@ -5,7 +5,7 @@ layout: "page"
 icon: fa-book
 order: 3
 ---
-1. V. Adamchuk, J.Lan, K. Abdalla, P. Dias Carlson, M. Debbagh, C. Madramootoo, & B. Kvezereli (2023), "Instrumentation for on-the-spot measurement of soil health indicators", Precision agriculture’23, 823-829, 2023. **[Wageningen Academic](https://www.wageningenacademic.com/doi/abs/10.3920/978-90-8686-947-3_103)**
+1. V. Adamchuk, J.Lan, K. Abdalla, P. Dias Carlson, M. Debbagh, C. Madramootoo, & B. Kvezereli, "Instrumentation for on-the-spot measurement of soil health indicators", Precision agriculture’23, 823-829, 2023. **[Wageningen Academic](https://www.wageningenacademic.com/doi/abs/10.3920/978-90-8686-947-3_103)**
 ```
 @article{adamchuk2023instrumentation,
   title={Instrumentation for on-the-spot measurement of soil health indicators},
