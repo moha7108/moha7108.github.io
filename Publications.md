@@ -31,13 +31,13 @@ order: 3
 
 3. M. Debbagh, "Neural Radiance Fields (NeRFs): A Review and Some Recent Developments," arXiv preprint arXiv:2305.00375, 2023. **([Arxiv](https://arxiv.org/abs/2305.00375), [Project Page](https://moha7108.github.io/2023/03/17/NeRF.html))**
 ```
-  @misc{debbagh2023neural,
-    title={Neural Radiance Fields (NeRFs): A Review and Some Recent Developments}, 
-    author={Mohamed Debbagh},
-    year={2023},
-    eprint={2305.00375},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@misc{debbagh2023neural,
+  title={Neural Radiance Fields (NeRFs): A Review and Some Recent Developments}, 
+  author={Mohamed Debbagh},
+  year={2023},
+  eprint={2305.00375},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
 }
 ```
 
