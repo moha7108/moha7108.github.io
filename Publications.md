@@ -5,7 +5,6 @@ layout: "page"
 icon: fa-book
 order: 3
 ---
-
 1. V. Adamchuk, J.Lan, K. Abdalla, P. Dias Carlson, M. Debbagh, C. Madramootoo, & B. Kvezereli (2023), "Instrumentation for on-the-spot measurement of soil health indicators", Precision agriculture’23, 823-829, 2023. **([Wageningen Academic](https://www.wageningenacademic.com/doi/abs/10.3920/978-90-8686-947-3_103))**
 ```
 @article{adamchuk2023instrumentation,
@@ -21,18 +20,18 @@ order: 3
 2. M. Debbagh, "Learning Structured Output Representations from Attributes using Deep Conditional Generative Models", arXiv preprint arXiv:2305.00980, 2023. **([Arxiv](https://arxiv.org/abs/2305.00980), [Project Page](https://moha7108.github.io/2023/04/24/CVAE.html))**
 ```
 @misc{debbagh2023learning,
-      title={Learning Structured Output Representations from Attributes using Deep Conditional Generative Models}, 
-      author={Mohamed Debbagh},
-      year={2023},
-      eprint={2305.00980},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+  title={Learning Structured Output Representations from Attributes using Deep Conditional Generative Models}, 
+  author={Mohamed Debbagh},
+  year={2023},
+  eprint={2305.00980},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
 }
 ```
 
 3. M. Debbagh, "Neural Radiance Fields (NeRFs): A Review and Some Recent Developments," arXiv preprint arXiv:2305.00375, 2023. **([Arxiv](https://arxiv.org/abs/2305.00375), [Project Page](https://moha7108.github.io/2023/03/17/NeRF.html))**
 ```
-@misc{debbagh2023neural,
+  @misc{debbagh2023neural,
     title={Neural Radiance Fields (NeRFs): A Review and Some Recent Developments}, 
     author={Mohamed Debbagh},
     year={2023},
@@ -53,6 +52,7 @@ order: 3
   month={July}
 }
 ```
+
 5. M. Debbagh, V. Adamchuk, C. Madramootoo, and J. Whalen, “Development of a wireless sensor network for passive in situ measurement of soil co2 gas emissions in the agriculture landscape,” in Proceedings of the 14th International Conference on Precision Agriculture, Montreal, QC, Canada, 2018, pp. 24–27. [**(Thesis)**](https://www.researchgate.net/publication/338018392_Development_of_a_Low-Cost_Wireless_Sensor_Network_for_Passive_in_situ_Measurement_of_Soil_Greenhouse_Gas_Emissions)
 ```
 @inproceedings{debbagh2018development,
