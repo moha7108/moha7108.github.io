@@ -149,8 +149,8 @@ order: 3
     <img src="assets/images/slideshow/001.jpg" style="width:100%">
   </div>
     
-  <a class="prev" onclick="plusSlides(-1)">❮</a>
-  <a class="next" onclick="plusSlides(1)">❯</a>
+  <!-- <a class="prev" onclick="plusSlides(-1)">❮</a>
+  <a class="next" onclick="plusSlides(1)">❯</a> -->
 
   <div class="caption-container">
     <p id="caption"></p>
@@ -212,7 +212,8 @@ function showSlides(n) {
 
 
 function autoShowSlides() {
-  plusSlides(1);
+  slideIndex++;
+  showSlides(slideIndex);
 }
 
 setInterval(autoShowSlides, 2000); // Change image every 2 seconds
