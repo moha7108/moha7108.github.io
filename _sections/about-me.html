@@ -79,20 +79,20 @@ order: 3
     color: white;
   }
 
-  .row {
+  .galrow {
   display: flex; /* Use flexbox layout */
   overflow-x: auto; /* Enables horizontal scrolling */
   /* Remove any default padding or margin if necessary */
   }
 
-  .row:after {
+  .galrow:after {
     content: "";
     display: table;
     clear: both;
   }
   
   /* Six columns side by side */
-  .column {
+  .galcolumn {
     float: left;
     width: 14%;
     flex-shrink: 0;
@@ -127,35 +127,35 @@ order: 3
 
 <div class="container">
 
-  <div class="row">
-    <div class="column">
+  <div class="galrow">
+    <div class="galcolumn">
       <img class="demo cursor" src="assets/images/slideshow/001.jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
     </div>
-    <div class="column">
+    <div class="galcolumn">
       <img class="demo cursor" src="assets/images/slideshow/002.jpg" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
     </div>
-    <div class="column">
+    <div class="galcolumn">
       <img class="demo cursor" src="assets/images/slideshow/003.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
     </div>
-    <div class="column">
+    <div class="galcolumn">
       <img class="demo cursor" src="assets/images/slideshow/004.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
     </div>
-    <div class="column">
+    <div class="galcolumn">
       <img class="demo cursor" src="assets/images/slideshow/005.jpg" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
     </div>    
-    <div class="column">
+    <div class="galcolumn">
       <img class="demo cursor" src="assets/images/slideshow/006.jpg" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
     </div>
-    <div class="column">
+    <div class="galcolumn">
       <img class="demo cursor" src="assets/images/slideshow/007.jpg" style="width:100%" onclick="currentSlide(7)" alt="Snowy Mountains">
     </div>
-    <div class="column">
+    <div class="galcolumn">
       <img class="demo cursor" src="assets/images/slideshow/008.jpg" style="width:100%" onclick="currentSlide(8)" alt="Snowy Mountains">
     </div>
-    <div class="column">
+    <div class="galcolumn">
       <img class="demo cursor" src="assets/images/slideshow/009.jpg" style="width:100%" onclick="currentSlide(9)" alt="Snowy Mountains">
     </div>
-    <div class="column">
+    <div class="galcolumn">
       <img class="demo cursor" src="assets/images/slideshow/010.jpg" style="width:100%" onclick="currentSlide(10)" alt="Snowy Mountains">
     </div>
   </div>
