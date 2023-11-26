@@ -117,7 +117,7 @@ order: 3
     right:0;
     background-color: #2196F3; /* Blue background */
     border: none; /* No border */
-    padding: 1px; /* Padding for a circle */
+    padding: 10px; /* Padding for a circle */
     justify-content: center; /* Center content horizontally */
     align-items: center; /* Center content vertically */
     width: 40px; /* Fixed width for a circle */
@@ -320,16 +320,32 @@ document.getElementById('slideshowToggle').addEventListener('click', function() 
   var playIcon = document.getElementById('play');
   var pauseIcon = document.getElementById('pause');
 
-  if (playIcon.style.display === 'none') {
-    playIcon.style.display = 'block';
-    pauseIcon.style.display = 'none';
-    stopSlideshow();
-  } else {
+  if (playIcon.style.display !== 'none') {
     playIcon.style.display = 'none';
     pauseIcon.style.display = 'block';
     startSlideshow();
+  } else {
+    playIcon.style.display = 'block';
+    pauseIcon.style.display = 'none';
+    stopSlideshow();
   }
 });
+
+
+// document.getElementById('slideshowToggle').addEventListener('click', function() {
+//   var playIcon = document.getElementById('play');
+//   var pauseIcon = document.getElementById('pause');
+
+//   if (playIcon.style.display === 'none') {
+//     playIcon.style.display = 'block';
+//     pauseIcon.style.display = 'none';
+//     stopSlideshow();
+//   } else {
+//     playIcon.style.display = 'none';
+//     pauseIcon.style.display = 'block';
+//     startSlideshow();
+//   }
+// });
 
 // document.getElementById('slideshowToggle').addEventListener('click', function() {
 //   if (this.innerHTML === "►") {
