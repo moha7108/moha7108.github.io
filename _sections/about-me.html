@@ -168,7 +168,7 @@ input:checked + .slider {
 }
 
 input:focus + .slider {
-  box-shadow: 0 0 1px #2196F3;
+  box-shadow: 0 0 1px #9c9c9c;
 }
 
 input:checked + .slider:before {
@@ -192,6 +192,34 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
+
+
+
+/* Tooltip text */
+.switch .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px; /* Use half of the width value */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.switch:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+
  
 </style>
 
@@ -308,6 +336,7 @@ input:checked + .slider:before {
   <label class="switch">
     <input type="checkbox" id="slideshowToggle" checked>
     <span class="slider round"></span>
+    <span class="tooltiptext">Toggle Autoplay/span>
   </label>
 
 </div>
