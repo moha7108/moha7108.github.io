@@ -172,6 +172,37 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
+
+/* Style for the SVG icons inside the slider */
+.slider .icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 20px; /* Adjust size as needed */
+  height: 20px; /* Adjust size as needed */
+}
+
+/* Hide both icons by default */
+.slider .play-icon,
+.slider .pause-icon {
+  display: none;
+}
+
+/* Show the play icon by default */
+.slider:before .play-icon {
+  display: block;
+}
+
+/* When the switch is checked, hide play icon and show pause icon */
+input:checked + .slider .play-icon {
+  display: none;
+}
+
+input:checked + .slider .pause-icon {
+  display: block;
+}
+
  
 </style>
 
@@ -286,9 +317,24 @@ input:checked + .slider:before {
   <a class="next" onclick="plusSlides(1)">❯</a>
 
   <label class="switch">
+    <input type="checkbox" id="slideshowToggle">
+    <span class="slider round">
+        <!-- Play Icon -->
+        <svg class="icon play-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+            <path d="M4.018 14L14.41 8 4.018 2z"/>
+        </svg>
+        <!-- Pause Icon -->
+        <svg class="icon pause-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" style="display: none;">
+            <path d="M2 2h4v12H2zm8 0h4v12h-4z"/>
+        </svg>
+    </span>
+  </label>
+
+
+  <!-- <label class="switch">
     <input type="checkbox" id="slideshowToggle" checked>
     <span class="slider round"></span>
-  </label>
+  </label> -->
 
   <!-- <label class="switch">
     <input type="checkbox" id="slideshowToggle">
