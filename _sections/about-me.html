@@ -221,13 +221,19 @@ order: 3
   <a class="prev" onclick="plusSlides(-1)">❮</a>
   <a class="next" onclick="plusSlides(1)">❯</a>
 
+  <label class="switch">
+    <input type="checkbox" id="slideshowToggle" checked>
+    <span class="slider round"></span>
+  </label>
+
 
 </div>
 
 <script>
 let slideIndex = 1;
 showSlides(slideIndex);
-autoShowSlides(); // Start the automatic slideshow
+// autoShowSlides(); // Start the automatic slideshow
+let autoSlideInterval = setInterval(autoShowSlides, 5000); // Store interval ID
 
 
 function plusSlides(n) {
@@ -261,7 +267,28 @@ function autoShowSlides() {
   plusSlides(1);
 }
 
-setInterval(autoShowSlides, 5000); // Change image every 2 seconds
+
+// Function to start the slideshow
+function startSlideshow() {
+  autoSlideInterval = setInterval(autoShowSlides, 5000);
+}
+
+// Function to stop the slideshow
+function stopSlideshow() {
+  clearInterval(autoSlideInterval);
+}
+
+// Toggle switch event listener
+document.getElementById('slideshowToggle').addEventListener('change', function() {
+  if (this.checked) {
+    startSlideshow();
+  } else {
+    stopSlideshow();
+  }
+});
+
+
+// setInterval(autoShowSlides, 5000); // Change image every 2 seconds
 
 
 </script>
