@@ -175,21 +175,6 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
-
-/* Style for the SVG icons inside the slider */
-.icon {
-  position: absolute;
-  width: 20px; /* Adjust size as needed */
-  height: 20px; /* Adjust size as needed */
-}
-
-/* Show play icon by default and hide pause icon */
-.play-icon { display: block; }
-.pause-icon { display: none; }
-
-/* When the switch is checked, hide play icon and show pause icon */
-input:checked + .slider .play-icon { display: none; }
-input:checked + .slider .pause-icon { display: block; }
  
 </style>
 
@@ -304,26 +289,9 @@ input:checked + .slider .pause-icon { display: block; }
   <a class="next" onclick="plusSlides(1)">❯</a>
 
   <label class="switch">
-    <input type="checkbox" id="slideshowToggle">
-    <span class="slider round">
-        <!-- Play Icon -->
-        <svg class="icon play-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
-          <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-          <path d="M6.271 5.055a.5.5 0 0 1 .52.038l3.5 2.5a.5.5 0 0 1 0 .814l-3.5 2.5A.5.5 0 0 1 6 10.5v-5a.5.5 0 0 1 .271-.445z"/>
-        </svg>
-        <!-- Pause Icon -->
-        <svg class="icon pause-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" style="display: none;">
-          <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-          <path d="M5 6.25a1.25 1.25 0 1 1 2.5 0v3.5a1.25 1.25 0 1 1-2.5 0v-3.5zm3.5 0a1.25 1.25 0 1 1 2.5 0v3.5a1.25 1.25 0 1 1-2.5 0v-3.5z"/>
-        </svg>
-    </span>
-  </label>
-
-
-  <!-- <label class="switch">
     <input type="checkbox" id="slideshowToggle" checked>
     <span class="slider round"></span>
-  </label> -->
+  </label>
 
   <!-- <label class="switch">
     <input type="checkbox" id="slideshowToggle">
