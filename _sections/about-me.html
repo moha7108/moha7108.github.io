@@ -110,82 +110,25 @@ order: 3
     opacity: 1;
   }
 
-
-/* Style the switch - container */
-.switch {
-  position: absolute;
-  top:25%;
-  right:0;
-  width: 60px;
-  height: 34px;
+/* Style the button */
+.toggle-button {
+  background-color: #2196F3; /* Blue background */
+  border: none; /* No border */
+  color: white; /* White text */
+  padding: 10px 20px; /* Some padding */
+  text-align: center; /* Center the text (icon) */
+  text-decoration: none; /* No underline */
+  display: inline-block; /* Shape as a block */
+  font-size: 20px; /* Increase font size */
+  margin: 4px 2px; /* Margin for spacing */
+  cursor: pointer; /* Cursor as pointer */
+  border-radius: 5px; /* Rounded corners */
+  transition: background-color 0.3s; /* Smooth background transition */
 }
 
-/* Style the switch - slider */
-.switch .slider {
-  position: absolute;
-  cursor: pointer;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #ccc;
-  -webkit-transition: .4s;
-  transition: .4s;
-}
-
-/* Style the switch - slider (round) */
-.switch .slider.round {
-  border-radius: 34px;
-}
-
-/* Style the switch - slider:before (for the toggle handle) */
-.switch .slider:before {
-  position: absolute;
-  content: "";
-  height: 26px;
-  width: 26px;
-  left: 4px;
-  bottom: 4px;
-  background-color: white;
-  -webkit-transition: .4s;
-  transition: .4s;
-  border-radius: 50%;
-}
-
-/* Style for when the switch is checked */
-.switch input:checked + .slider {
-  background-color: #2196F3;
-}
-
-/* Style for the toggle handle when the switch is checked */
-.switch input:checked + .slider:before {
-  -webkit-transform: translateX(26px);
-  -ms-transform: translateX(26px);
-  transform: translateX(26px);
-}
-
-/* Style for the play (►) and pause (❚❚) symbols */
-.switch .slider:after {
-  content: "►";
-  color: #2196F3;
-  display: block;
-  position: absolute;
-  transform: translate(-50%, -50%);
-  top: 50%;
-  left: 50%;
-  font-size: 20px;
-  font-family: Arial, sans-serif;
-}
-
-/* Change to pause symbol when checked */
-.switch input:checked + .slider:after {
-  content: "❚❚";
-}
-
-/* Optional: Adding a transition effect to the symbols */
-.switch .slider:after {
-  -webkit-transition: .4s;
-  transition: .4s;
+/* Hover effect */
+.toggle-button:hover {
+  background-color: #0b7dda; /* Slightly darker blue on hover */
 }
  
 </style>
@@ -300,11 +243,11 @@ order: 3
   <a class="prev" onclick="plusSlides(-1)">❮</a>
   <a class="next" onclick="plusSlides(1)">❯</a>
 
-  <label class="switch">
+  <!-- <label class="switch">
     <input type="checkbox" id="slideshowToggle" checked>
     <span class="slider round"></span>
-  </label>
-
+  </label> -->
+  <button id="slideshowToggle" class="toggle-button">►</button>
 
 </div>
 
@@ -358,13 +301,22 @@ function stopSlideshow() {
 }
 
 // Toggle switch event listener
-document.getElementById('slideshowToggle').addEventListener('change', function() {
-  if (this.checked) {
+document.getElementById('slideshowToggle').addEventListener('click', function() {
+  if (this.innerHTML === "►") {
+    this.innerHTML = "❚❚";
     startSlideshow();
   } else {
+    this.innerHTML = "►";
     stopSlideshow();
   }
 });
+// document.getElementById('slideshowToggle').addEventListener('change', function() {
+//   if (this.checked) {
+//     startSlideshow();
+//   } else {
+//     stopSlideshow();
+//   }
+// });
 
 
 // setInterval(autoShowSlides, 5000); // Change image every 2 seconds
