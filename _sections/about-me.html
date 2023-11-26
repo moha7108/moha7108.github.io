@@ -111,26 +111,17 @@ order: 3
   }
 
 
-
-  /* The switch - the box around the slider */
+/* Style the switch - container */
 .switch {
   position: absolute;
   top:25%;
   right:0;
-  /* display: inline-block; */
   width: 60px;
   height: 34px;
 }
 
-/* Hide default HTML checkbox */
-.switch input {
-  opacity: 0;
-  width: 0;
-  height: 0;
-}
-
-/* The slider */
-.slider {
+/* Style the switch - slider */
+.switch .slider {
   position: absolute;
   cursor: pointer;
   top: 0;
@@ -142,9 +133,15 @@ order: 3
   transition: .4s;
 }
 
-.slider:before {
+/* Style the switch - slider (round) */
+.switch .slider.round {
+  border-radius: 34px;
+}
+
+/* Style the switch - slider:before (for the toggle handle) */
+.switch .slider:before {
   position: absolute;
-  content: "▶️";
+  content: "";
   height: 26px;
   width: 26px;
   left: 4px;
@@ -152,32 +149,45 @@ order: 3
   background-color: white;
   -webkit-transition: .4s;
   transition: .4s;
+  border-radius: 50%;
 }
 
-input:checked + .slider {
-  content:"⏸️";
+/* Style for when the switch is checked */
+.switch input:checked + .slider {
   background-color: #2196F3;
 }
 
-input:focus + .slider {
-  box-shadow: 0 0 1px #2196F3;
-}
-
-input:checked + .slider:before {
+/* Style for the toggle handle when the switch is checked */
+.switch input:checked + .slider:before {
   -webkit-transform: translateX(26px);
   -ms-transform: translateX(26px);
   transform: translateX(26px);
 }
 
-/* Rounded sliders */
-.slider.round {
-  border-radius: 34px;
+/* Style for the play (►) and pause (❚❚) symbols */
+.switch .slider:after {
+  content: "►";
+  color: #2196F3;
+  display: block;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
 }
 
-.slider.round:before {
-  border-radius: 50%;
+/* Change to pause symbol when checked */
+.switch input:checked + .slider:after {
+  content: "❚❚";
 }
 
+/* Optional: Adding a transition effect to the symbols */
+.switch .slider:after {
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+ 
 </style>
 
 <img src="assets/images/propic.jpg" style="width:35%">
