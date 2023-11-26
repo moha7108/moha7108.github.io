@@ -110,29 +110,32 @@ order: 3
     opacity: 1;
   }
 
-/* Style the button */
-.toggle-button {
-  position:absolute;
-  top:25%;
-  right:0;
-  background-color: #2196F3; /* Blue background */
-  border: none; /* No border */
-  color: white; /* White text */
-  padding: 10px 20px; /* Some padding */
-  text-align: center; /* Center the text (icon) */
-  text-decoration: none; /* No underline */
-  display: inline-block; /* Shape as a block */
-  font-size: 20px; /* Increase font size */
-  margin: 4px 2px; /* Margin for spacing */
-  cursor: pointer; /* Cursor as pointer */
-  border-radius: 5px; /* Rounded corners */
-  transition: background-color 0.3s; /* Smooth background transition */
-}
+  /* Style the button */
+  .toggle-button {
+    background-color: #2196F3; /* Blue background */
+    border: none; /* No border */
+    padding: 10px; /* Padding for a circle */
+    display: inline-flex; /* Use flexbox for centering */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    width: 40px; /* Fixed width for a circle */
+    height: 40px; /* Fixed height for a circle */
+    border-radius: 50%; /* Circular shape */
+    cursor: pointer; /* Cursor as pointer */
+    transition: background-color 0.3s; /* Smooth background transition */
+  }
 
-/* Hover effect */
-.toggle-button:hover {
-  background-color: #0b7dda; /* Slightly darker blue on hover */
-}
+  /* Hover effect */
+  .toggle-button:hover {
+    background-color: #0b7dda; /* Slightly darker blue on hover */
+  }
+
+  /* Style the SVG icons within the button */
+  .toggle-button svg {
+    fill: white; /* White icon color */
+    width: 16px; /* Icon width */
+    height: 16px; /* Icon height */
+  }
  
 </style>
 
