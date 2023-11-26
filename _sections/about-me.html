@@ -213,6 +213,7 @@ function showSlides(n) {
 
 function autoShowSlides() {
   slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1} 
   showSlides(slideIndex);
 }
 
