@@ -174,18 +174,15 @@ input:checked + .slider:before {
 }
 
 /* Style for the SVG icons inside the slider */
-.slider .icon {
-  position: relative;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+.icon {
+  position: absolute;
   width: 20px; /* Adjust size as needed */
   height: 20px; /* Adjust size as needed */
 }
 
 /* Show play icon by default and hide pause icon */
-.slider .play-icon { display: block; }
-.slider .pause-icon { display: none; }
+.play-icon { display: block; }
+.pause-icon { display: none; }
 
 /* When the switch is checked, hide play icon and show pause icon */
 input:checked + .slider .play-icon { display: none; }
