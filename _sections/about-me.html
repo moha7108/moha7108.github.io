@@ -183,27 +183,13 @@ input:checked + .slider:before {
   height: 20px; /* Adjust size as needed */
 }
 
-/* Hide both icons by default */
-.slider .play-icon,
-.slider .pause-icon {
-  display: none;
-  fill: #1a73e8;
-}
-
-/* Show the play icon by default */
-.slider:before .play-icon {
-  display: block;
-}
+/* Show play icon by default and hide pause icon */
+.slider .play-icon { display: block; }
+.slider .pause-icon { display: none; }
 
 /* When the switch is checked, hide play icon and show pause icon */
-input:checked + .slider .play-icon {
-  display: none;
-}
-
-input:checked + .slider .pause-icon {
-  display: block;
-}
-
+input:checked + .slider .play-icon { display: none; }
+input:checked + .slider .pause-icon { display: block; }
  
 </style>
 
