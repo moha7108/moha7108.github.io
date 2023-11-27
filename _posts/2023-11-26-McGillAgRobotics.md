@@ -5,19 +5,7 @@ layout: post
 icon: fa-solid fa-robot
 ---
 
-**Abstract:** The Cotton Rover (CR) is an autonomous robotic system specifically designed for the automation of cotton harvesting. The CR integrates several subsystems including a navigation system, cotton detection and mapping system, harvesting mechanism, and delivery system. The CR demonstrates the application of robotics in the context of agriculture contributes to advancements in automated precision agriculture technology.
-
-*Cite this project (BibTeX)*
-```
-@inproceedings{mcgill2023cottonrover,
-    title={McGill Agriculture Robotics Squad Cotton Rover},
-    author={Debbagh, Mohamed and Geddes, Kyle and Rello, Andres and Jiang, Xintong and Abdalla, Karim and Citak, Gunes Arev and Leblond, Philippe and Lan, John and Brar, Jasmine and Vigouroux, Robin Le and Zhou, Xuehai and Adamchuk, Viacheslav and Sun, Shangpeng},
-    booktitle={2023 ASABE Conference's Student Robotics Challenge},
-    year={2023},
-    address={Omaha, Nebraska}
-}
-```
-<br/>
+McGill Ag-Robotics Club is a collective of students at the McGill's Macdonald campus that come together to learn, share knowledge and apply skills necessary to model, simulate, manufacture and build a robot from scratch. The first half of the year is dedicated to hands on teaching, through equipment based tutorials and internal competitions in which student try to accomplish robot tasks based on what they have learned. The second half of the year is dedicated to team building skills in which all members of the team design and build a robot to compete at the annual ASABE student robotics competition. 
 
 ### Overview
 
