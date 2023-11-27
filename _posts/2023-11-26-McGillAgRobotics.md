@@ -16,3 +16,7 @@ McGill Ag-Robotics Club is a collective of students at McGill's Faculty of Agric
 ## Organizational Records
 ### 2023/2024 Team Members
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/presentation/d/e/2PACX-1vQYnL9_xP3xB85qYEee9s0GNb1pAslQZ5VpWDfnYzx8yEduJAYisZPRpt0vqHzsXa8fk_MbQ0g0_I8S/embed?start=true&loop=true&delayms=5000' frameborder='0' width='1440' height='839' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div>
+
+### General Meetings
+#### GM1: Welcome and Orientation (October 13 2023)
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/presentation/d/e/2PACX-1vSXO2SVQoo5hcuir1cMMFVmzpgOzRzU_WFtXOIxo_HeQ073QJLIOPpFqu8yygAgmPJppKcqsy7PsbzJ/embed?start=true&loop=true&delayms=5000' frameborder='0' width='1440' height='839' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div>
