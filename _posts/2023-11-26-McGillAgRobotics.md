@@ -1,5 +1,5 @@
 ---
-title: Controlled Hydroponics Image Platform (CHIP)
+title: McGill Ag-Robotics 2023/2024
 author: Mohamed Debbagh
 layout: post
 icon: fa-solid fa-robot
