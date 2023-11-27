@@ -9,7 +9,7 @@ McGill Ag-Robotics Club is a collective of students at McGill's Faculty of Agric
 
 Check us out:
 - Instagram [@mcgill_agrobotics](https://www.instagram.com/mcgill_agrobotics/)
-- GitHub [McGill-Agriculture-Robotics-Squad](https://github.com/McGill-Agriculture-Robotics-Squad)
+- GitHub [@McGill-Agriculture-Robotics-Squad](https://github.com/McGill-Agriculture-Robotics-Squad)
 - linktr.ee [@mac_robotics](linktr.ee/mac_robotics)
 - request to join our Discord
 
