@@ -7,6 +7,11 @@ icon: fa-solid fa-robot
 
 McGill Ag-Robotics Club is a collective of students at McGill's Faculty of Agriculture and Environmental Science that come together to learn, share knowledge, and apply skills necessary to model, simulate, manufacture electrical and mechanical systems and build a robot from scratch. The first half of the year is dedicated to hands on teaching, through equipment based tutorials and internal competitions in which student try to accomplish robot tasks based on what they have learned. The second half of the year is dedicated to team building skills in which all members of the team design and build a robot to compete at the annual ASABE student robotics competition. This page will host materials and archive generated from the 2023/2024 Team.
 
+Check out our links:
+- Instagram [@mcgill_agrobotics](https://www.instagram.com/mcgill_agrobotics/)
+- linktr.ee [@mac_robotics](linktr.ee/mac_robotics)
+- request to join our Discord
+
 ## Work Showcase
 ### Tutorial Series
 
