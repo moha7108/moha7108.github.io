@@ -85,7 +85,6 @@ order: 3
   display: flex; /* Use flexbox layout */
   overflow-x: auto; /* Enables horizontal scrolling */
   /* Remove any default padding or margin if necessary */
-  height: 20%;
   }
 
   .galrow:after {
@@ -96,9 +95,13 @@ order: 3
   
   /* Six columns side by side */
   .galcolumn {
-    float: left;
+    /* float: left; */
+    flex: 0 0 auto; /* Prevents the columns from growing or shrinking */
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items horizontally */
+    justify-content: center; /* Center items vertically */
     width: 14%;
-    flex-shrink: 0;
+    /* flex-shrink: 0; */
   }
   
   /* Add a transparency effect for thumnbail images */
