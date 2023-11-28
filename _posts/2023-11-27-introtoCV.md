@@ -1,5 +1,5 @@
 ---
-title: Lecture-Intro to Computer Vision & computational Photography
+title: Intro to CV lecture
 author: Mohamed Debbagh
 layout: post
 icon: fa-solid fa-eye
