@@ -1,5 +1,5 @@
 ---
-title: Intro to CV lecture
+title: Intro to Computer Vision lecture
 author: Mohamed Debbagh
 layout: post
 icon: fa-solid fa-eye
