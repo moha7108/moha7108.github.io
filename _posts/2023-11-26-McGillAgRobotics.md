@@ -20,6 +20,10 @@ Check us out:
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/presentation/d/e/2PACX-1vSRlALGzGhMyV6FtFEHRmXYSZfBtiws6ogrTLyV7ej8EWdhyP6YiATv95TQjUEU8sZ7LiF2vfSm5fe5/embed?start=true&loop=true&delayms=10000' frameborder='0' width='1440' height='839' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div>
 <br>
 
+#### CV1. Introduction to Computational Photography and Computer Vision
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/presentation/d/e/2PACX-1vQSSd-Zqxe8OGcHcOOzdU45bib0uoNJjxjg9e8kenedXOo0hYh-ddYbdzCmFfaO9Dw3dykknwcnsySo/embed?start=true&loop=true&delayms=10000' frameborder='0' width='1440' height='839' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div>
+<br>
+
 ## Organizational Records
 ### 2023/2024 Team Members
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/presentation/d/e/2PACX-1vQYnL9_xP3xB85qYEee9s0GNb1pAslQZ5VpWDfnYzx8yEduJAYisZPRpt0vqHzsXa8fk_MbQ0g0_I8S/embed?start=true&loop=true&delayms=5000' frameborder='0' width='1440' height='839' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div>
