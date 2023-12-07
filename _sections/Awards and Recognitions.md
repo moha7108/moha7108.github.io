@@ -54,7 +54,7 @@ order: 4
   <ul>
     <li>
       <a href="assets/certificates/ieeecs.pdf" target="_blank" rel="noopener noreferrer"><img src="assets/certificates/preview/ieeecs.png"></a>
-      <p><Strong>IEEE Computer Science</Strong> December, 2024</p>
+      <p><Strong>IEEE Computer Society</Strong> December, 2024</p>
     </li>
   </ul>
 
