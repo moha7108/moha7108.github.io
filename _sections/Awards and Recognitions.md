@@ -3,8 +3,8 @@ title: Awards & Recognitions
 icon: fa-regular fa-award
 order: 4
 ---
-- **Student Experience Enhancement Fund (SEEF).** 2024 ([page](https://www.mcgill.ca/macdonald/alumni/giving/seef))
-- **Douglas and Doreen Jose Student Experience Enhancement Award.** 2023
+- **Student Experience Enhancement Fund (SEEF).** 2024 ([page](https://www.mcgill.ca/osas/internshipawards))
+- **Douglas and Doreen Jose Student Experience Enhancement Award.** 2023 ([page](https://www.mcgill.ca/osas/internshipawards), [report](https://www.mcgill.ca/osas/files/osas/mohammed_debaugh_et_al._seef_2023_deepbloom_open_source_sensor_platform.pdf))
 - **Innovative Solutions Canada (AAFC) - Controlled Environment Agriculture Farming Challenge grant recipient.** 2022
 - **McGill Artificial Intelligence Society (MAIS) Hackathon 2020: 3rd Place Overall Hack.** 2020
 - **Dobson Cup: Food and Agribusiness Convergent Innovation Prize (Observe Agriculture).** 2019
