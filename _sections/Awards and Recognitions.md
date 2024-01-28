@@ -3,7 +3,7 @@ title: Awards & Recognitions
 icon: fa-regular fa-award
 order: 4
 ---
-- **Student Experience Enhancement Fund (SEEF).** 2024
+- **Student Experience Enhancement Fund (SEEF).** 2024 ([page](https://www.mcgill.ca/macdonald/alumni/giving/seef))
 - **Douglas and Doreen Jose Student Experience Enhancement Award.** 2023
 - **Innovative Solutions Canada (AAFC) - Controlled Environment Agriculture Farming Challenge grant recipient.** 2022
 - **McGill Artificial Intelligence Society (MAIS) Hackathon 2020: 3rd Place Overall Hack.** 2020
