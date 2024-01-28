@@ -5,7 +5,7 @@ order: 4
 ---
 - **Student Experience Enhancement Fund (SEEF).** 2024 ([Award page](https://www.mcgill.ca/osas/internshipawards))
 - **Douglas and Doreen Jose Student Experience Enhancement Award.** 2023 ([Award page](https://www.mcgill.ca/osas/internshipawards), [report](https://www.mcgill.ca/osas/files/osas/mohammed_debaugh_et_al._seef_2023_deepbloom_open_source_sensor_platform.pdf))
-- **Innovative Solutions Canada (AAFC) - Enhancing automation in Controlled Environment Agriculture Farming Challenge grant recipient.** 2022 ([Grant page](https://ised-isde.canada.ca/site/innovative-solutions-canada/en/enhancing-automation-controlled-environment-agriculture-farming))
+- **Innovative Solutions Canada (AAFC)- Controlled Environment Agriculture Farming Challenge grant recipient.** 2022 ([Grant page](https://ised-isde.canada.ca/site/innovative-solutions-canada/en/enhancing-automation-controlled-environment-agriculture-farming))
 - **McGill Artificial Intelligence Society (MAIS) Hackathon 2020: 3rd Place Overall Hack.** 2020 ([Hackathon page](https://mais-hacks-2020.devpost.com/), [Devpost](https://devpost.com/software/plant-disease-identifier))
 - **Dobson Cup: Food and Agribusiness Convergent Innovation Prize (Observe Agriculture).** 2019 ([Award page](https://www.mcgill.ca/dobson/article/dobson-winners/winners-mcgill-dobson-cup-2019-powered-national-bank))
 - **Robert S. Broughton Student Internship Award in Agricultural Engineering.** 2015 ([Award page](https://www.mcgill.ca/osas/internships/studentinfo))
