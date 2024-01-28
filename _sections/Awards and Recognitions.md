@@ -7,8 +7,8 @@ order: 4
 - **Douglas and Doreen Jose Student Experience Enhancement Award.** 2023 ([award page](https://www.mcgill.ca/osas/internshipawards), [report](https://www.mcgill.ca/osas/files/osas/mohammed_debaugh_et_al._seef_2023_deepbloom_open_source_sensor_platform.pdf))
 - **Innovative Solutions Canada (AAFC) - Controlled Environment Agriculture Farming Challenge grant recipient.** 2022
 - **McGill Artificial Intelligence Society (MAIS) Hackathon 2020: 3rd Place Overall Hack.** 2020 ([hackathon page](https://mais-hacks-2020.devpost.com/), [devpost](https://devpost.com/software/plant-disease-identifier))
-- **Dobson Cup: Food and Agribusiness Convergent Innovation Prize (Observe Agriculture).** 2019
-- **Robert S. Broughton Student Internship Award in Agricultural Engineering.** 2015
+- **Dobson Cup: Food and Agribusiness Convergent Innovation Prize (Observe Agriculture).** 2019 ([award page](https://www.mcgill.ca/dobson/article/dobson-winners/winners-mcgill-dobson-cup-2019-powered-national-bank))
+- **Robert S. Broughton Student Internship Award in Agricultural Engineering.** 2015 ([award page](https://www.mcgill.ca/osas/internships/studentinfo))
 
 <h3 style="text-align: left; margin-bottom:32px;">Certificates</h3>
 
