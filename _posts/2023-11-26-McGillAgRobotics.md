@@ -16,6 +16,16 @@ Check us out:
 ## Work Showcase
 ### Tutorial Series
 
+#### 3. Robot Hardware Basics - Motors and actuation
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vREo73rjVgGyMLibAseel1_d8hcVTNbpccVKSjrFFRr_jiN3y3z7_S9w0xA1a5o9yOxMkNLrVI9Pb6A/embed?start=true&loop=true&delayms=10000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+
+[Example 1 code](https://drive.google.com/file/d/1wuSfLQF1zdDOY6jq2kC5XXh4a4RTf6ez/view?usp=sharing), [example 2 code](https://drive.google.com/file/d/1FZzxjg8ZPknrtqmNp7v_t3uGqGjG7QAA/view?usp=sharing)
+<br>
+
+#### 2. Robot Software and Programming Basics
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJLX_T-gNNU6Y7J4jTjoElX3lwzRFp3DFvFZFAL9Ovg3JBr99PTrB9UzaOY5BOr4yipUYtdOMS6Bxx/embed?start=true&loop=true&delayms=10000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+<br>
+
 #### 1. Introduction to Robotics and Robot Hardware Framework and Software Interface
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/presentation/d/e/2PACX-1vSRlALGzGhMyV6FtFEHRmXYSZfBtiws6ogrTLyV7ej8EWdhyP6YiATv95TQjUEU8sZ7LiF2vfSm5fe5/embed?start=true&loop=true&delayms=10000' frameborder='0' width='1440' height='839' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div>
 <br>
