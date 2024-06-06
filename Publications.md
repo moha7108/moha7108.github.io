@@ -31,7 +31,7 @@ For full up-to-date list of publications please visit my [Google Scholar page](h
 }
 ```
 
-2. M. Debbagh, "Learning Structured Output Representations from Attributes using Deep Conditional Generative Models", arXiv preprint arXiv:2305.00980, 2023. **([Arxiv](https://arxiv.org/abs/2305.00980), [Project Page](https://moha7108.github.io/2023/04/24/CVAE.html))**
+2. M. Debbagh, "Learning Structured Output Representations from Attributes using Deep Conditional Generative Models", arXiv preprint arXiv:2305.00980, 2023. **([Arxiv](https://arxiv.org/abs/2305.00980), [Project Page](https://mohas95.github.io/2023/04/24/CVAE.html))**
 ```
 @misc{debbagh2023learning,
   title={Learning Structured Output Representations from Attributes using Deep Conditional Generative Models}, 
@@ -43,7 +43,7 @@ For full up-to-date list of publications please visit my [Google Scholar page](h
 }
 ```
 
-3. M. Debbagh, "Neural Radiance Fields (NeRFs): A Review and Some Recent Developments," arXiv preprint arXiv:2305.00375, 2023. **([Arxiv](https://arxiv.org/abs/2305.00375), [Project Page](https://moha7108.github.io/2023/03/17/NeRF.html))**
+3. M. Debbagh, "Neural Radiance Fields (NeRFs): A Review and Some Recent Developments," arXiv preprint arXiv:2305.00375, 2023. **([Arxiv](https://arxiv.org/abs/2305.00375), [Project Page](https://mohas95.github.io/2023/03/17/NeRF.html))**
 ```
 @misc{debbagh2023neural,
   title={Neural Radiance Fields (NeRFs): A Review and Some Recent Developments}, 
