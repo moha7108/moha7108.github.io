@@ -5,6 +5,20 @@ layout: "page"
 icon: fa-book
 order: 3
 ---
+For full up-to-date list of publications please visit my [Google Scholar page](https://scholar.google.ca/citations?user=fHozot8AAAAJ&hl=en&oi=ao).
+
+1. Debbagh, M., Liu, Y., Zheng, Z., Jiang, X., Sun, S., & Lefsrud, M. (2024). Generative Plant Growth Simulation from Sequence-Informed Environmental Conditions. arXiv preprint arXiv:2405.14796. **([Arxiv](https://arxiv.org/abs/2405.14796), [Project Page](https://mohas95.github.io/2024/05/20/SIPGS.html), [Code](https://github.com/mohas95/sequence-informed-plant-growth-simulation))**
+```bibtex
+@misc{debbagh2024generative,
+      title={Generative Plant Growth Simulation from Sequence-Informed Environmental Conditions}, 
+      author={Mohamed Debbagh and Yixue Liu and Zhouzhou Zheng and Xintong Jiang and Shangpeng Sun and Mark Lefsrud},
+      year={2024},
+      eprint={2405.14796},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
 1. V. Adamchuk, J.Lan, K. Abdalla, P. Dias Carlson, M. Debbagh, C. Madramootoo, & B. Kvezereli, "Instrumentation for on-the-spot measurement of soil health indicators", Precision agriculture’23, 823-829, 2023. **([Wageningen Academic](https://www.wageningenacademic.com/doi/abs/10.3920/978-90-8686-947-3_103))**
 ```
 @article{adamchuk2023instrumentation,
